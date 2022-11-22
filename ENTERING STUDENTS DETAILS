@@ -1,0 +1,10 @@
+sname=input('enter sname:')
+sno=int(input('enter s no:'))
+group=input('enter the group:')
+gender=input('enter the gender:')
+pno=int(input('enter the ph no:'))
+address=input('enter the address:')
+dper=float(input('enter the degree persentage:'))
+
+print('sno:',sno,'sname:',sname,'group:',group,'gender:',gender,'phno',pno,'address:',address,'degree percentage:',dper)
+            
